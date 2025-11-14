@@ -110,17 +110,16 @@ Tray Application
 
 ## Installation
 
-1. Save the script as:
-   RobloxOptimizer.ps1
+1. Save the script
 
 2. You can run it by right-clicking:
    Run with PowerShell
 
 3. If your system has script execution restrictions, you may need to run:
-   powershell -ExecutionPolicy Bypass -File "C:\Path\To\RobloxOptimizer.ps1"
+   powershell -ExecutionPolicy Bypass -File "C:\Path\To\Script_Name.ps1"
 
    Example:
-   powershell -ExecutionPolicy Bypass -File "C:\Users\Computer\Documents\Roblox\Helpers\roblox_optimizer_2.ps1"
+   powershell -ExecutionPolicy Bypass -File "C:\Users\Computer\Documents\Roblox\Helpers\Script_Name.ps1"
 
 4. A tray icon will appear.
    Right-click it to access settings.
