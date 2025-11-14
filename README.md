@@ -124,6 +124,8 @@ Tray Application
 4. A tray icon will appear.
    Right-click it to access settings.
 
+   <img width="461" height="218" alt="image" src="https://github.com/user-attachments/assets/7971f2a1-d0f1-453b-ba3e-a17683939786" />
+
 -----------------------------------------------------------------------
 
 ## Restoring Defaults
